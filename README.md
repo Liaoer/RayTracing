@@ -1,1 +1,1 @@
-![demo](https://github.com/Liaoer/RayTracing/blob/master/out.jpg)
+![demo](https://github.com/Liaoer/RayTracing/blob/master/demo.jpg)
