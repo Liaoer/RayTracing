@@ -1,13 +1,13 @@
-#include "Tscene.h"
-#include "Tsphere.h"
-#include "Tcamera.h"
-#include "TrayTracer.h"
-#include "Tplane.h"
-#include "TdirectionalLight.h"
-#include "TblinnPhongMaterial.h"
-#include "TmirrorMaterial.h"
-#include "TlightMaterial.h"
-#include "TdiffuseMaterial.h"
+#include "Scene.h"
+#include "Sphere.h"
+#include "Camera.h"
+#include "RayTracer.h"
+#include "Plane.h"
+#include "DirectionalLight.h"
+#include "BlinnPhongMaterial.h"
+#include "MirrorMaterial.h"
+#include "LightMaterial.h"
+#include "DiffuseMaterial.h"
 #include <stdio.h>
 #include <string.h>
 

@@ -11,43 +11,43 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp \
-    TbaseGeometry.cpp \
-    TbaseLight.cpp \
-    TbaseMath.cpp \
-    TblinnPhongMaterial.cpp \
-    Tcamera.cpp \
-    Tcolor.cpp \
-    TdiffuseMaterial.cpp \
-    TdirectionalLight.cpp \
-    TintersectionResult.cpp \
-    TlightMaterial.cpp \
-    Tmaterial.cpp \
-    TmirrorMaterial.cpp \
-    Tplane.cpp \
-    Tray.cpp \
-    TrayTracer.cpp \
-    Tscene.cpp \
-    Tsphere.cpp \
-    Ttexture2D.cpp \
-    Tvector.cpp
+    BaseGeometry.cpp \
+    BaseLight.cpp \
+    BaseMath.cpp \
+    BlinnPhongMaterial.cpp \
+    Camera.cpp \
+    Color.cpp \
+    DiffuseMaterial.cpp \
+    DirectionalLight.cpp \
+    IntersectionResult.cpp \
+    LightMaterial.cpp \
+    Material.cpp \
+    MirrorMaterial.cpp \
+    Plane.cpp \
+    Ray.cpp \
+    RayTracer.cpp \
+    Scene.cpp \
+    Sphere.cpp \
+    Texture2D.cpp \
+    Vector.cpp
 
 HEADERS += \
-    TbaseGeometry.h \
-    TbaseLight.h \
-    TbaseMath.h \
-    TblinnPhongMaterial.h \
-    Tcamera.h \
-    Tcolor.h \
-    TdiffuseMaterial.h \
-    TdirectionalLight.h \
-    TintersectionResult.h \
-    TlightMaterial.h \
-    Tmaterial.h \
-    TmirrorMaterial.h \
-    Tplane.h \
-    Tray.h \
-    TrayTracer.h \
-    Tscene.h \
-    Tsphere.h \
-    Ttexture2D.h \
-    Tvector.h
+    BaseGeometry.h \
+    BaseLight.h \
+    BaseMath.h \
+    BlinnPhongMaterial.h \
+    Camera.h \
+    Color.h \
+    DiffuseMaterial.h \
+    DirectionalLight.h \
+    IntersectionResult.h \
+    LightMaterial.h \
+    Material.h \
+    MirrorMaterial.h \
+    Plane.h \
+    Ray.h \
+    RayTracer.h \
+    Scene.h \
+    Sphere.h \
+    Texture2D.h \
+    Vector.h
