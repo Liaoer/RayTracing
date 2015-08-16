@@ -1,5 +1,5 @@
-#ifndef TSPHERE_H
-#define TSPHERE_H
+#ifndef SPHERE_H
+#define SPHERE_H
 #include "Vector.h"
 #include "BaseGeometry.h"
 
@@ -28,4 +28,4 @@ private:
     float m_sqrRadius;
 };
 
-#endif // TSPHERE_H
+#endif // SPHERE_H

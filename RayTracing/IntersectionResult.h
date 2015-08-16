@@ -1,5 +1,5 @@
-#ifndef TINTERSECTIONRESULT_H
-#define TINTERSECTIONRESULT_H
+#ifndef INTERSECTIONRESULT_H
+#define INTERSECTIONRESULT_H
 
 #include "Vector.h"
 
@@ -30,4 +30,4 @@ private:
     TbaseGeometry * m_geometry;
 };
 
-#endif // TINTERSECTIONRESULT_H
+#endif // INTERSECTIONRESULT_H

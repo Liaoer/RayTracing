@@ -1,5 +1,5 @@
-#ifndef TBASELIGHT_H
-#define TBASELIGHT_H
+#ifndef BASELIGHT_H
+#define BASELIGHT_H
 
 #include "Vector.h"
 #include "Color.h"
@@ -15,5 +15,5 @@ public:
     virtual Tcolor getIrradiance(Tvector pos,Tvector normal, Tscene *scene);
 };
 
-#endif // TBASELIGHT_H
+#endif // BASELIGHT_H
 

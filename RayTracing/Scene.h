@@ -1,5 +1,5 @@
-#ifndef TSCENE_H
-#define TSCENE_H
+#ifndef SCENE_H
+#define SCENE_H
 
 #include "BaseGeometry.h"
 #include "IntersectionResult.h"
@@ -20,4 +20,4 @@ std::vector<TbaseGeometry *> m_geometryList;
 std::vector<TexplicitLight *> m_lightList;
 };
 
-#endif // TSCENE_H
+#endif // SCENE_H

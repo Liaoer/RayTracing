@@ -1,5 +1,5 @@
-#ifndef TCAMERA_H
-#define TCAMERA_H
+#ifndef CAMERA_H
+#define CAMERA_H
 
 #include "Vector.h"
 #include "Ray.h"
@@ -47,4 +47,4 @@ private:
     float m_far;
 };
 
-#endif // TCAMERA_H
+#endif // CAMERA_H

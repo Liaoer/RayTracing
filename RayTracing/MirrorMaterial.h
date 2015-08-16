@@ -1,5 +1,5 @@
-#ifndef TGLASSYMATERIAL_H
-#define TGLASSYMATERIAL_H
+#ifndef GLASSYMATERIAL_H
+#define GLASSYMATERIAL_H
 
 #include "Material.h"
 
@@ -12,4 +12,4 @@ public:
     virtual float BRDF(Tvector negativeViewDirection, Tvector negativeLightDirection, Tvector normal);
 };
 
-#endif // TGLASSYMATERIAL_H
+#endif // GLASSYMATERIAL_H

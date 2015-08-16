@@ -1,5 +1,5 @@
-#ifndef TDIFFUSEMATERIAL_H
-#define TDIFFUSEMATERIAL_H
+#ifndef DIFFUSEMATERIAL_H
+#define DIFFUSEMATERIAL_H
 
 #include "Material.h"
 
@@ -12,4 +12,4 @@ public:
     virtual float BRDF(Tvector negativeViewDirection, Tvector negativeLightDirection, Tvector normal);
 };
 
-#endif // TDIFFUSEMATERIAL_H
+#endif // DIFFUSEMATERIAL_H

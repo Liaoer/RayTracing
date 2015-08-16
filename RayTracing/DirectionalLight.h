@@ -1,5 +1,5 @@
-#ifndef TDIRECTIONALLIGHT_H
-#define TDIRECTIONALLIGHT_H
+#ifndef DIRECTIONALLIGHT_H
+#define DIRECTIONALLIGHT_H
 #include <Vector.h>
 #include "BaseLight.h"
 #include "Color.h"
@@ -20,4 +20,4 @@ private:
     float m_maxIntensity;
 };
 
-#endif // TDIRECTIONALLIGHT_H
+#endif // DIRECTIONALLIGHT_H

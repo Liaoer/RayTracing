@@ -1,5 +1,5 @@
-#ifndef TRAYTRACER_H
-#define TRAYTRACER_H
+#ifndef RAYTRACER_H
+#define RAYTRACER_H
 
 #include "Camera.h"
 #include "Scene.h"
@@ -65,4 +65,4 @@ private:
     Tcolor * m_data;
 };
 
-#endif // TRAYTRACER_H
+#endif // RAYTRACER_H

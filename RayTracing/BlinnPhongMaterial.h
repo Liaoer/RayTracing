@@ -1,5 +1,5 @@
-#ifndef TBLINN_PHONG_MATERIAL_H
-#define TBLINN_PHONG_MATERIAL_H
+#ifndef BLINN_PHONG_MATERIAL_H
+#define BLINN_PHONG_MATERIAL_H
 
 #include "Color.h"
 #include "Ray.h"
@@ -24,4 +24,4 @@ private:
     float m_shininess;
 };
 
-#endif // TMATERIAL_H
+#endif // MATERIAL_H

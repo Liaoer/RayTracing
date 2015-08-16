@@ -1,5 +1,5 @@
-#ifndef TRAY_H
-#define TRAY_H
+#ifndef RAY_H
+#define RAY_H
 #include "Vector.h"
 
 class Tray
@@ -19,4 +19,4 @@ private:
     Tvector m_direction;
 };
 
-#endif // TRAY_H
+#endif // RAY_H

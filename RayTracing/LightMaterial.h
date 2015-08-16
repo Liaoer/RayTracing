@@ -1,5 +1,5 @@
-#ifndef TLIGHTMATERIAL_H
-#define TLIGHTMATERIAL_H
+#ifndef LIGHTMATERIAL_H
+#define LIGHTMATERIAL_H
 
 #include "Material.h"
 class TlightMaterial : public Tmaterial
@@ -11,4 +11,4 @@ public:
     virtual float BRDF(Tvector negativeViewDirection, Tvector negativeLightDirection, Tvector normal);
 };
 
-#endif // TLIGHTMATERIAL_H
+#endif // LIGHTMATERIAL_H

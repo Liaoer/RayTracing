@@ -1,5 +1,5 @@
-#ifndef TVECTOR_H
-#define TVECTOR_H
+#ifndef VECTOR_H
+#define VECTOR_H
 
 #include <stdlib.h>
 class Tvector
@@ -33,4 +33,4 @@ private:
     float m_x,m_y,m_z;
 };
 
-#endif // TVECTOR_H
+#endif // VECTOR_H

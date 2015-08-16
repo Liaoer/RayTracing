@@ -1,5 +1,5 @@
-#ifndef TCOLOR_H
-#define TCOLOR_H
+#ifndef COLOR_H
+#define COLOR_H
 
 
 class Tcolor
@@ -21,4 +21,4 @@ public:
     float r,g,b;
 };
 
-#endif // TCOLOR_H
+#endif // COLOR_H

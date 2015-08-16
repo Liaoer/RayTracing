@@ -1,5 +1,5 @@
-#ifndef TBASEGEOMETRY_H
-#define TBASEGEOMETRY_H
+#ifndef BASEGEOMETRY_H
+#define BASEGEOMETRY_H
 
 #include "IntersectionResult.h"
 #include "Ray.h"
@@ -19,4 +19,4 @@ private:
     Tmaterial * m_material;
 };
 
-#endif // TBASEGEOMETRY_H
+#endif // BASEGEOMETRY_H

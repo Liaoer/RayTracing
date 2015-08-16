@@ -1,5 +1,5 @@
-#ifndef TBASEMATH_H
-#define TBASEMATH_H
+#ifndef BASEMATH_H
+#define BASEMATH_H
 #include <math.h>
 
 class TbaseMath
@@ -13,4 +13,4 @@ protected:
     ~TbaseMath();
 };
 
-#endif // TBASEMATH_H
+#endif // BASEMATH_H

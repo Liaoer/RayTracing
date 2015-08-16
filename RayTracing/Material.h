@@ -1,5 +1,5 @@
-#ifndef TMATERIAL_H
-#define TMATERIAL_H
+#ifndef MATERIAL_H
+#define MATERIAL_H
 #include "Color.h"
 #include "Texture2D.h"
 #include <Vector.h>
@@ -41,4 +41,4 @@ protected:
     float m_reflectiveness;
 };
 
-#endif // TMATERIAL_H
+#endif // MATERIAL_H

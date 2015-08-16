@@ -1,5 +1,5 @@
-#ifndef TPLANE_H
-#define TPLANE_H
+#ifndef PLANE_H
+#define PLANE_H
 
 #include "IntersectionResult.h"
 #include "BaseGeometry.h"
@@ -16,4 +16,4 @@ private:
     float m_dist;
 };
 
-#endif // TPLANE_H
+#endif // PLANE_H
